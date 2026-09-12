@@ -1,9 +1,9 @@
 # Current session pointer
 
-Status: none
-Log file:
-Started:
-Week:
+Status: in-progress
+Log file: log/sessions/2026-09-12-1822-week01.md
+Started: 2026-09-12 18:22
+Week: 1
 
 The coach checks this file first, before anything else, at the start of every session.
 
